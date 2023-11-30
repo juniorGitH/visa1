@@ -1,0 +1,13 @@
+/*initialisation*/
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+
+/*definition de la mise en forme sur le body*/
+
+body {
+  justify-content: space-around;
+}
